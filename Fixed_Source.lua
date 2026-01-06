@@ -1,6 +1,5 @@
 -- POLAX GUI FIXED | GUARANTEED WORKING
--- SIMPLE, STABLE, NO PIRATE-NO BAN / UNDEDECTED
--- PASSWORD: POLAX (CASE-INSENSITIVE)
+-- CREATED BY ? RIEST
 
 local Players = game:GetService("Players")
 local UIS = game:GetService("UserInputService")
