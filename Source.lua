@@ -1,6 +1,5 @@
--- POLAX INTEGRATED MENU + DEV SCRIPT
--- GUARANTEED WORKING
--- PASSWORD: POLAX
+-- POLAX INTEGRATED MENU + ULTIMATE SCRIPT
+-- POLAX GUI POWERED BY RIEST 
 
 local Players = game:GetService("Players")
 local LP = Players.LocalPlayer
